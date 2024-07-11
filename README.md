@@ -1,4 +1,4 @@
-## Jason Corriher.
+## Jason Corriher
 I have been a systems engineer for a long time, but lately I am diving deep into the various Cloud Architectures available today.
 - 🔭 I’m currently working on ...
 AWS Cloud Practitioner Certification
